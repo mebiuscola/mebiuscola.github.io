@@ -1,0 +1,25 @@
+favicon: /img/favicon.ico
+
+avatar:
+  img: /img/avatar.jpg
+
+index_img: /img/backimg.jpg
+
+background: /img/backimg.jpg
+
+post_copyright:
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+
+aside:
+  card_author:
+    button:
+      link: https://github.com/mebiuscola
+
+busuanzi:
+  site_uv: false
+  site_pv: false
+  page_pv: false
+
+share:
+  use: 

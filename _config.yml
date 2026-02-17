@@ -1,0 +1,27 @@
+title: 猫屋
+subtitle: 猫屋为秋风所破
+description: 让我看看描述在哪里
+keywords: 猫屋, 秋风, 描述
+author: Mebius Cat
+language:
+  - zh-CN
+  - en
+timezone: Asia/Shanghai
+
+url: https://mebiuscola.github.io/
+
+filename_case: 1
+post_asset_folder: true
+
+# File modification date could be different when used with GitHub workflow
+updated_option: date
+
+theme: butterfly
+
+# hexo-generator-indexed
+hide_categories:
+
+# hexo-renderer-marked
+marked:
+  prependRoot: true
+  postAsset: true
