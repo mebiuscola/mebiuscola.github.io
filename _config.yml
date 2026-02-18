@@ -8,7 +8,7 @@ language:
   - en
 timezone: Asia/Shanghai
 
-url: https://mebiuscola.github.io/
+url: https://blog.welcometomy.party/
 
 filename_case: 1
 post_asset_folder: true
